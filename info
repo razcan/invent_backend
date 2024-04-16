@@ -15,3 +15,6 @@ git push -u origin main
 git remote add origin https://github.com/razcan/invent_backend.git
 git branch -M main
 git push -u origin main
+
+q
+
